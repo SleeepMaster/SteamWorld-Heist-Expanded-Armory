@@ -1,5 +1,5 @@
-![Expanded Armory](https://user-images.githubusercontent.com/26903692/221175555-430f739c-37e5-42dc-aed3-4966aef45ce5.png)
 # EXPANDED ARMORY
+![Expanded Armory](https://user-images.githubusercontent.com/26903692/221175555-430f739c-37e5-42dc-aed3-4966aef45ce5.png)
 
 When I first played Steamworld Heist I had a blast with this game, however I felt it was lacking powerful very rare weapons. This is why I created this mod.
 
