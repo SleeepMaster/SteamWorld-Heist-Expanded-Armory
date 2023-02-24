@@ -3,6 +3,8 @@
 
 When I first played Steamworld Heist I had a blast with this game, however I felt it was lacking powerful very rare weapons. This is why I created this mod.
 
+[You can download it here](https://github.com/SleeepMaster/Expanded-Armory/releases/download/v1.0.1/mod_expanded_armory.rar).
+
 # MOD FEATURES
 
 - New rarity tier: **`Legendary`**.
@@ -18,7 +20,7 @@ I tried to keep this mod as balanced as possible, but if you think something is 
 
 # INSTALLATION
 
-WARNING! ONCE YOU INSTALL THIS MOD YOU WON'T BE ABLE TO LOAD YOUR SAVE WITHOUT IT, SO MAKE SURE TO MAKE A COPY OF YOUR SAVE FILES. 
+### ***WARNING! ONCE YOU INSTALL THIS MOD YOU WON'T BE ABLE TO LOAD YOUR SAVE WITHOUT IT, SO MAKE SURE TO MAKE A COPY OF YOUR SAVE FILES.***
 
 Place **`mod_expanded_armory`** folder into DLC folder of your SteamWorld Heist directory, for example:
 ```
